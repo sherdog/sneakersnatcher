@@ -1,5 +1,5 @@
 var app = require('./index')
-var config = require('app/config')
+var config = require('./config')
 
 //include some sort of logging.. need to research
 console.log('staring server')

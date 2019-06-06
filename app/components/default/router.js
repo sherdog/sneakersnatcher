@@ -1,5 +1,7 @@
-var express = require('require')
+
+var express = require('express')
 var join = require('path').join
+
 
 var router = new express.Router();
 
